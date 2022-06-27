@@ -1,4 +1,9 @@
 ### Hi there 👋
+### 🎓👨‍🎓I am Ashish Sharma, 3rd year Math and Computing undergrad at IIT Ropar
+### 🌱 Computer Science and Mathematics excite me, and I am always looking forward to learn and make new things
+### If you feel I am a fit for your organization for a project/role 😄, contact me on below details:
+### 📧 ashishsharmaiitropar@gmail.com
+### 📱 +91-6280939579
 [![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ash-mac)](https://github.com/ash-mac/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ash-mac)](https://github.com/ash-mac/github-readme-stats)
 <!--
