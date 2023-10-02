@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🎓👨‍🎓I am Ashish Sharma, Final year Math and Computing undergrad at IIT Ropar
+### 🎓👨‍🎓I am Ashish Sharma, Math and Computing with Concentration in Artificial Intelligence graduate from IIT Ropar
 ### 🌱 Computer Science and Mathematics excite me, and I am always looking forward to learn and make new things
 ### If you feel I am a fit for a project/role at your organization  😄, contact me on below details:
 ### 📧 ashishsharmaiitropar@gmail.com
